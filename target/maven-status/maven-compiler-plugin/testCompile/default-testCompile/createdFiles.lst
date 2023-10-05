@@ -1,0 +1,3 @@
+com\Hooks\HooksClass.class
+com\Runner\TestRunner.class
+com\StepDefinition\StepDefinition.class
